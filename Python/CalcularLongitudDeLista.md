@@ -4,6 +4,7 @@
 
 ### Escribe una funcion que calcule la longitud de una lista
 
+### Solucion 
 
 ```py
 def longitud_lista(lista):
@@ -16,9 +17,10 @@ def longitud_lista(lista):
 print(longitud_lista(["Pedro", "Armando", "Alfonso", "Jose"]))
 ```
 
+### Output
+
 ```py
 4
 ```
 
-print(longitud_lista(["Pedro", "Armando", "Alfonso", "Jose"]))
 

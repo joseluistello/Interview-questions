@@ -19,9 +19,11 @@
 
 ### 1- Empresa que te hizo la prueba
 ### 2- Posicion
-### 2- Descripcion del problema
-### 3. Solucion
+### 3- Descripcion del problema
+### 4. Solucion
+### 5. Resultado
 
-Aqui tienes un ejemplo
+#### Ejemplo con Python
 
+#### Ejemplo con Postgrest
 
