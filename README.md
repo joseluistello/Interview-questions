@@ -13,5 +13,15 @@
 </div>	
 
 
-# Interview-questions
-Un espacio que recopila preguntas de las entrevistas tecnicas. 
+## 💡 ¿Como puedes contribuir?
+
+Para no perder el control del repisitorio se creo un estandar para los Pull Request. Cada problema que quieras compartir debe cumplir con las siguientes caracteristicas:
+
+1- Empresa que te hizo la prueba
+2- Posicion
+2- Descripcion del problema
+3. Solucion
+
+Aqui tienes un ejemplo
+
+
