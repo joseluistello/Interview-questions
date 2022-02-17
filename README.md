@@ -23,12 +23,15 @@
 ### 4. Solucion
 ### 5. Resultado
 
+---
+
 ### Ejemplo con [Python](https://github.com/joseluistello/Interview-questions/blob/main/Python/CalcularLongitudDeLista.md) y [PostgrestSQL](https://github.com/joseluistello/Interview-questions/blob/main/PostgreSQL/SalariesDifference.md)
 
 ## ☢️ Recuerda respetar la estructura de cada archivo md:
 - Dos signos ## para la empresa que te hizo la prueba
 - Tres signos ### para la posicion, descripcion del problema, solucion y resultado
 
-### Se utiliza un archivo md para la legibilidad del problema. 
+#### Se utiliza un archivo md por cuestiones de legibilidad
+---
 
 
